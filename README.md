@@ -1,2 +1,2 @@
-# .github
+# Thingsy
 Simplifying Life with Smart Solutions
